@@ -1,0 +1,38 @@
+Ada Lovelace:C:1
+Ada Lovelace:R:2
+Amelia Earhart:C:2
+Anansi:O:1
+Axiom Reprocessor:C:3
+Axiom Salvager:C:2
+Axiom Salvager:R:1
+Boom!:R:2
+Brassbug Hive:C:1
+Brassbug Hive:R:2
+Brassbug Hub:C:2
+Brassbug Hub:R:1
+Bravos Tracer:O:1
+Bravos Vanguard:O:1
+Coppélia:C:1
+Coppélia:R:2
+Dr. Frankenstein:C:1
+Dr. Frankenstein:R:2
+Foundry Armorer:C:2
+Foundry Mecanic:C:2
+Haven Bouncer:R:1
+Haven, Bravos Bastion:O:2
+Hooked:C:3
+Inari:O:1
+Kelon Burst:C:3
+Kelon Cylinder:C:1
+Kelon Cylinder:R:1
+Kelon Elemental:C:3
+Lyra Chronicler:O:1
+Martengale:O:2
+Monolith Rune-Scribe:O:1
+Moonlight Jellyfish:O:2
+Muna Druid:O:1
+Ogun:R:2
+Ouroboros Inkcaster:O:1
+Ouroboros, Lyra Bastion:O:1
+Sticky Note Seals:O:1
+The Frog Prince:O:1

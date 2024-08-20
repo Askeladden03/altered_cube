@@ -1,0 +1,39 @@
+Boom!:O:1
+Red:O:1
+Bravos Bladedancer:O:2
+Helping Hand:O:2
+Hathor:O:1
+Lyra Scald:O:2
+Beauty Sleep:O:1
+Monolith Legate:O:2
+Monolith Archivist:O:1
+Thoth:O:2
+Ordis Carrier:O:1
+Studious Disciple:C:2
+Moonlight Jellyfish:R:1
+Moonlight Jellyfish:C:1
+Tooth Fairy:R:1
+Tooth Fairy:C:1
+Kadigiran Mage-Dancer:C:2
+Yzmir Stargazer:R:2
+Baku:R:2
+Baba Yaga:C:2
+Kadigiran Alchemist:C:2
+Alice:R:2
+Flamel:C:1
+Flamel:R:1
+Kuwat, the Dissenter:C:1
+Kuwat, the Dissenter:R:1
+Dorothy Gale:C:2
+The Kraken:C:2
+Sakarabru:C:2
+Magical Training:R:2
+Gift of Self:C:2
+Off you go!:C:2
+Spy Craft:R:2
+Conjuring Seal:R:1
+Conjuring Seal:C:1
+Banishing Gate:C:2
+Kraken's Wrath:R:1
+Kraken's Wrath:C:1
+Baba's Isba:C:2
