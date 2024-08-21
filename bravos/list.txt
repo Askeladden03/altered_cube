@@ -1,43 +1,30 @@
-Achilles:C:1
-Achilles:R:1
+Achilles:R:2
 Atlas:R:2
 Axiom Salvager:O:2
-Bravos Bladedancer:C:1
-Bravos Bladedancer:R:1
-Bravos Pathfinder:C:2
-Bravos Pathfinder:R:1
-Bravos Tracer:C:3
+Bravos Bladedancer:R:2
+Bravos Pathfinder:R:3
+Bravos Tracer:C:2
 Bravos Vanguard:R:2
-Chiron:R:1
-Dorothy Gale:O:1
-Haven Bouncer:C:1
-Haven Bouncer:R:1
+Chiron:R:2
+Dorothy Gale:O:2
+Haven Bouncer:R:2
 Haven Warrior:C:2
-Haven, Bravos Bastion:C:1
-Haven, Bravos Bastion:R:1
-Helping Hand:C:1
-Helping Hand:R:1
-Hua Mulan:C:1
-Hua Mulan:R:1
+Haven, Bravos Bastion:C:2
+Helping Hand:R:2
+Hua Mulan:R:2
 Issun-Bôshi:C:2
-Kitsune:O:1
+Kitsune:O:2
 Mana Channeling:C:2
-Mana Eruption:C:1
-Mana Eruption:R:1
-Mighty Jinn:C:3
-Ordis Spy:O:1
-Ozma:O:1
+Mana Eruption:R:2
+Mighty Jinn:C:2
+Ordis Spy:O:2
 Parvati:O:2
 Physical Training:C:2
 Ratatoskr:R:2
-Red:C:1
-Red:R:1
+Red:R:2
 Shenlong:C:2
-Shenlong:R:1
-Tanuki:O:1
-The Hatter:O:1
-Three Little Pigs:O:1
+Tanuki:O:2
+Three Little Pigs:O:2
 Tiny Jinn:C:2
 Tomoe Gozen:R:2
-Tooth Fairy:O:1
-Twinkle Twinkle:O:1
+Tooth Fairy:O:2

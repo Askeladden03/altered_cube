@@ -1,24 +1,22 @@
 A Cappella Training:O:2
 Aja:C:2
 Aloe Vera:C:2
-Axiom Reprocessor:O:1
+Axiom Reprocessor:O:2
 Beauty Sleep:C:2
-Chiron:O:1
-Daugther of Yggdrasil:C:2
-Esmeralda:O:1
+Chiron:O:2
+Daugther of Yggdrasil:C:3
 Harvest:R:2
 Hydracanea:R:2
 Inari:R:2
-Issun-bôshi:O:1
-Kelon Elemental:O:1
+Issun-bôshi:O:2
+Coppélia:O:2
 Kitsune:C:2
-Kodoma:C:1
-Kodoma:R:1
+Kodoma:R:2
 Loki:O:2
-Lyra Cloth Dancer:O:1
+Lyra Cloth Dancer:O:2
 Lyra Festival:O:2
 Lyra Thespian:O:2
-Mana Channeling:O:1
+Mana Channeling:O:2
 Mana Eruption:O:2
 Mana Reaping:R:2
 Meditation Training:C:2
@@ -26,10 +24,9 @@ Muna Caregiver:C:2
 Muna Druid:C:2
 Muna Merchant:R:2
 Nurture:C:2
-Paint Prison:O:1
+Paint Prison:O:2
 Parvati:C:2
 Physical Training:O:2
 Sneezer Shroom:R:2
 Spindle Harverster:R:2
 Tiny Djinn:O:2
-Verdantback:R:2
