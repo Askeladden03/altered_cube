@@ -10,12 +10,10 @@ Conjuring Seal:R:2
 Dorothy Gale:R:2
 Flamel:R:2
 Gift of Self:C:2
-Hathor:O:2
 Helping Hand:O:2
 Kadigiran Alchemist:C:2
 Kadigiran Mage-Dancer:R:2
 Kraken's Wrath:R:2
-Kuwat, the Dissenter:R:2
 Lyra Scald:O:2
 Magical Training:R:2
 Monolith Archivist:O:2

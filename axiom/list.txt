@@ -12,7 +12,7 @@ Coppélia:R:2
 Dr. Frankenstein:R:2
 Foundry Armorer:C:2
 Foundry Mecanic:C:2
-Haven Bouncer:R:2
+Haven Bouncer:O:2
 Haven, Bravos Bastion:O:2
 Hooked:C:2
 Inari:O:2
@@ -26,6 +26,4 @@ Moonlight Jellyfish:O:2
 Muna Druid:O:2
 Ogun:R:2
 Ouroboros Inkcaster:O:2
-Ouroboros, Lyra Bastion:O:2
-Sticky Note Seals:O:2
-The Frog Prince:O:2
+The Ouroboros, Lyra Bastion:O:2

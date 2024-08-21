@@ -2,7 +2,7 @@ Achilles:R:2
 Atlas:R:2
 Axiom Salvager:O:2
 Bravos Bladedancer:R:2
-Bravos Pathfinder:R:3
+Bravos Pathfinder:R:2
 Bravos Tracer:C:2
 Bravos Vanguard:R:2
 Chiron:R:2
@@ -12,7 +12,7 @@ Haven Warrior:C:2
 Haven, Bravos Bastion:C:2
 Helping Hand:R:2
 Hua Mulan:R:2
-Issun-Bôshi:C:2
+Issun-Boshi:C:2
 Kitsune:O:2
 Mana Channeling:C:2
 Mana Eruption:R:2
