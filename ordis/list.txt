@@ -1,4 +1,4 @@
-Amelia:O:2
+Amelia Earhart:O:2
 Anubis:C:1
 Anubis:R:1
 Atlas:O:1
@@ -13,19 +13,19 @@ Kelon Burst:O:2
 Kuwat, the Dissenter:O:1
 Monolith Archivist:C:2
 Monolith Legate:C:2
-Monolith Rune-Scrib:R:2
+Monolith Rune-Scribe:R:2
 Ordis Attorney:C:2
 Ordis Cadets:R:2
-Ordis Carrier:O:2
+Ordis Carrier:C:2
 Ordis Gatekeeper:R:2
 Ordis Spy:R:2
 Ordis Trooper:R:2
 Ozma:C:3
 Paper Herald:C:2
 Quetzacoatl:C:2
-Ratatokr:O:2
+Ratatoskr:O:2
 Robin Hood:C:2
-Sandman:O:1
+The Sandman:O:1
 Sticky Note Seals:R:2
 The Council:R:2
 The Frog Prince:R:2

@@ -19,7 +19,7 @@ Helping Hand:C:1
 Helping Hand:R:1
 Hua Mulan:C:1
 Hua Mulan:R:1
-Issun-Bôshi:C:2
+Issun-Boshi:C:2
 Kitsune:O:1
 Mana Channeling:C:2
 Mana Eruption:C:1

@@ -1,7 +1,7 @@
 A Cappella Training:C:2
 Alice:O:1
 All in!:R:2
-Aloa Vera:O:2
+Aloe Vera:O:2
 Anansi:C:2
 Bravos Pathfinder:O:1
 Cloth Cocoon:R:2
@@ -10,7 +10,7 @@ Esmeralda:C:3
 Flamel:O:1
 Hathor:C:3
 Hooked:O:1
-Kodoma:O:1
+Kodama:O:1
 Loki:C:2
 Lyra Chronicler:R:2
 Lyra Cloth Dancer:C:2
@@ -22,8 +22,8 @@ Magical Training:O:2
 Martengale:C:3
 Mighty Jinn:O:1
 Off you go!:O:2
-Ouroboros Inkacaster:C:1
-Ouroboros Inkacaster:R:1
+Ouroboros Inkcaster:C:1
+Ouroboros Inkcaster:R:1
 Paint Prison:C:2
 Tanuki:C:2
 The Hatter:C:3

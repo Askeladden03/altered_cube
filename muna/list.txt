@@ -4,16 +4,16 @@ Aloe Vera:C:2
 Axiom Reprocessor:O:1
 Beauty Sleep:C:2
 Chiron:O:1
-Daugther of Yggdrasil:C:2
+Daughter of Yggdrasil:C:2
 Esmeralda:O:1
 Harvest:R:2
 Hydracanea:R:2
 Inari:R:2
-Issun-bôshi:O:1
+Issun-boshi:O:1
 Kelon Elemental:O:1
 Kitsune:C:2
-Kodoma:C:1
-Kodoma:R:1
+Kodama:C:1
+Kodama:R:1
 Loki:O:2
 Lyra Cloth Dancer:O:1
 Lyra Festival:O:2
@@ -30,6 +30,6 @@ Paint Prison:O:1
 Parvati:C:2
 Physical Training:O:2
 Sneezer Shroom:R:2
-Spindle Harverster:R:2
-Tiny Djinn:O:2
+Spindle Harvesters:R:2
+Tiny Jinn:O:2
 Verdantback:R:2
