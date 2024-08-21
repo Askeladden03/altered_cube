@@ -10,13 +10,13 @@ Kadigiran Alchemist:O:2
 Kelon Burst:O:2
 Kuwat, the Dissenter:O:2
 Monolith Archivist:C:2
-Monolith Rune-Scribe:R:2
 Ordis Cadets:C:3
+Ozma:C:3
+Monolith Rune-Scribe:R:2
 Ordis Carrier:C:2
 Ordis Gatekeeper:R:2
 Ordis Spy:R:2
 Ordis Trooper:R:2
-Ozma:C:3
 Paper Herald:C:2
 Quetzacoatl:C:2
 Ratatoskr:O:2

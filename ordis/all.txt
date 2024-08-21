@@ -25,7 +25,7 @@ haven_trainee:o:1
 haven_warrior:o:1
 issitoq:c:1
 issitoq:r:1
-jeanna_d'arc:c:1
+jeanne_d'arc:c:1
 jeanne_d'arc:r:1
 jian_assembly_overseer:o:1
 kadigiran_alchemist:o:1

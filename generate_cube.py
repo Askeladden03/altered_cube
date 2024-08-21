@@ -97,7 +97,7 @@ def main():
 
     if args.jpg:
         for faction in factions:
-            card_list = fill_card_list_from_faction(faction, "all.txt")
+            card_list = fill_card_list_from_faction(faction, "list.txt")
             generate_from_card_list(faction, card_list)
             generate_hero(faction, hero[faction])
 

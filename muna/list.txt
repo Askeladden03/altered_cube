@@ -5,6 +5,7 @@ Axiom Reprocessor:O:2
 Beauty Sleep:C:2
 Chiron:O:2
 Daughter of Yggdrasil:C:3
+Lyra Festival:O:1
 Harvest:R:2
 Hydracanea:C:2
 Inari:R:2
@@ -12,7 +13,6 @@ Coppélia:O:2
 Kodama:C:2
 Loki:O:2
 Lyra Cloth Dancer:O:2
-Lyra Festival:O:1
 Lyra Thespian:O:2
 Mana Channeling:O:2
 Mana Reaping:R:2

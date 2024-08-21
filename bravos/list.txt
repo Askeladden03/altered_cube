@@ -9,8 +9,9 @@ Chiron:R:2
 Dorothy Gale:O:2
 Haven Bouncer:C:2
 Haven Warrior:C:2
-Haven, Bravos Bastion:C:3
 Helping Hand:R:2
+Haven, Bravos Bastion:C:3
+Shenlong:C:3
 Hua Mulan:C:2
 Issun-Boshi:C:2
 Mana Channeling:C:2
@@ -20,7 +21,6 @@ Ordis Spy:O:2
 Physical Training:C:2
 Ratatoskr:C:2
 Red:R:2
-Shenlong:C:3
 Tiny Jinn:C:2
 Tomoe Gozen:R:2
 Three Little Pigs:O:2

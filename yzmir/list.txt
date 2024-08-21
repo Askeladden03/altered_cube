@@ -14,6 +14,7 @@ Helping Hand:O:2
 Kadigiran Alchemist:R:2
 Kadigiran Mage-Dancer:R:2
 Kraken's Wrath:R:1
+Yzmir Stargazer:R:1
 Lyra Scald:O:2
 Magical Training:R:2
 Monolith Archivist:O:2
@@ -27,5 +28,4 @@ Studious Disciple:C:2
 The Kraken:C:2
 Thoth:O:2
 Tooth Fairy:R:2
-Yzmir Stargazer:R:1
 Ordis Attorney:O:2

@@ -5,14 +5,15 @@ Aloe Vera:O:2
 Anansi:C:2
 Cloth Cocoon:R:2
 Esmeralda:C:3
-Flamel:O:2
 Hathor:C:3
+Lyra Festival:C:1
+The Hatter:C:3
+Flamel:O:2
 Hooked:O:2
 Kodama:O:2
 Loki:R:2
 Lyra Chronicler:R:2
 Lyra Cloth Dancer:C:2
-Lyra Festival:C:1
 Lyra Navigator:R:2
 Lyra Thespian:R:2
 Magical Training:O:2
@@ -22,7 +23,6 @@ Off you go!:O:0
 Ouroboros Inkcaster:R:2
 Paint Prison:C:2
 Tanuki:C:2
-The Hatter:C:3
 The Sandman:R:2
 Tomoe Gozen:O:2
 Twinkle Twinkle:C:2

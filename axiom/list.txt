@@ -10,8 +10,9 @@ Brassbug Hub:C:2
 Bravos Tracer:O:2
 Bravos Vanguard:O:2
 Coppélia:C:2
-Dr. Frankenstein:R:2
+Kelon Elemental:C:3
 Foundry Armorer:C:3
+Dr. Frankenstein:R:2
 Foundry Mecanic:C:2
 Haven Bouncer:O:0
 Haven, Bravos Bastion:O:0
@@ -19,7 +20,6 @@ Hooked:C:2
 Inari:O:2
 Kelon Burst:C:2
 Kelon Cylinder:R:2
-Kelon Elemental:C:3
 Kraken's Wrath:O:2
 Lyra Chronicler:O:2
 Martengale:O:2
