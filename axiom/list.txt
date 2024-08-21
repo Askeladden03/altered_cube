@@ -3,27 +3,30 @@ Amelia Earhart:C:2
 Anansi:O:2
 Axiom Reprocessor:C:2
 Axiom Salvager:C:2
+Baku:O:2
 Boom!:R:2
 Brassbug Hive:R:2
 Brassbug Hub:C:2
 Bravos Tracer:O:2
 Bravos Vanguard:O:2
-Coppélia:R:2
+Coppélia:C:2
 Dr. Frankenstein:R:2
-Foundry Armorer:C:2
+Foundry Armorer:C:3
 Foundry Mecanic:C:2
-Haven Bouncer:O:2
-Haven, Bravos Bastion:O:2
+Haven Bouncer:O:0
+Haven, Bravos Bastion:O:0
 Hooked:C:2
 Inari:O:2
-Kelon Burst:C:3
+Kelon Burst:C:2
 Kelon Cylinder:R:2
 Kelon Elemental:C:3
+Kraken's Wrath:O:2
 Lyra Chronicler:O:2
 Martengale:O:2
 Monolith Rune-Scribe:O:2
 Moonlight Jellyfish:O:2
 Muna Druid:O:2
-Ogun:R:2
+Ogun:R:0
 Ouroboros Inkcaster:O:2
+Sticky Note Seals:O:2
 The Ouroboros, Lyra Bastion:O:2

@@ -4,16 +4,15 @@ Aloe Vera:C:2
 Axiom Reprocessor:O:2
 Beauty Sleep:C:2
 Chiron:O:2
-Daughter of Yggdrasil:C:2
+Daughter of Yggdrasil:C:3
 Harvest:R:2
-Hydracanea:R:2
+Hydracanea:C:2
 Inari:R:2
-Issun-boshi:O:2
 Coppélia:O:2
-Kodama:R:2
+Kodama:C:2
 Loki:O:2
 Lyra Cloth Dancer:O:2
-Lyra Festival:O:2
+Lyra Festival:O:1
 Lyra Thespian:O:2
 Mana Channeling:O:2
 Mana Reaping:R:2
@@ -27,4 +26,7 @@ Parvati:C:2
 Physical Training:O:2
 Sneezer Shroom:R:2
 Spindle Harvesters:R:2
-Tiny Jinn:O:2
+Tiny Jinn:O:0
+Issun-boshi:O:0
+Kitsune:C:2
+Quetzacoatl:O:2

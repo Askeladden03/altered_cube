@@ -6,14 +6,14 @@ Baku:R:2
 Banishing Gate:C:2
 Boom!:O:2
 Bravos Bladedancer:O:2
-Conjuring Seal:R:2
-Dorothy Gale:R:2
-Flamel:R:2
+Conjuring Seal:C:2
+Dorothy Gale:C:2
+Flamel:C:2
 Gift of Self:C:2
 Helping Hand:O:2
-Kadigiran Alchemist:C:2
+Kadigiran Alchemist:R:2
 Kadigiran Mage-Dancer:R:2
-Kraken's Wrath:R:2
+Kraken's Wrath:R:1
 Lyra Scald:O:2
 Magical Training:R:2
 Monolith Archivist:O:2
@@ -27,4 +27,5 @@ Studious Disciple:C:2
 The Kraken:C:2
 Thoth:O:2
 Tooth Fairy:R:2
-Yzmir Stargazer:R:2
+Yzmir Stargazer:R:1
+Ordis Attorney:O:2
