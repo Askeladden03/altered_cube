@@ -9,7 +9,12 @@ de mettre en lumière des interactions rares.
 
 ## Test render
 
-![screenshot](cube.pdf)
+![screenshot](images/cube_axiom.jpg)
+![screenshot](images/cube_bravos.jpg)
+![screenshot](images/cube_lyra.jpg)
+![screenshot](images/cube_muna.jpg)
+![screenshot](images/cube_ordis.jpg)
+![screenshot](images/cube_yzmir.jpg)
 
 ## Ownership of /images content
 
