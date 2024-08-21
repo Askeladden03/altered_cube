@@ -35,7 +35,6 @@ def fill_card_list_from_faction(faction, file):
         csv_reader = csv.reader(csv_file, delimiter=':')
         line_count = 0
         for row in csv_reader:
-            print(row)
             card_name = f'{row[0]}_{row[1]}'
             card_name = card_name.lower()
             card_name = card_name.replace(" ", "_")
@@ -89,8 +88,6 @@ def generate_pdf_from_faction_jpg():
     image_list[0].save('Core_Set.pdf', 'PDF', resolution=100.0, save_all=True, append_images=image_list[1:])
 
 def main():
-    generate_pdf_from_faction_jpg()
-    return 0
     parser = argparse.ArgumentParser(description='jpg and pdf cube generator')
     parser.add_argument('--pdf', action='store_true', help='generate pdf from\
                         existing jpg')
