@@ -12,11 +12,11 @@ Usage: ./utils.sh [-c] [--count_card] [-n] [--name-occurence] argument
 COMMANDS:
 
 -c directory, --count-card directory
-    from a faction, take the faction directory as argument
-    and count cards in list.txt
+    Count cards for a faction.
+    directory can be [axiom|bravos|lyra|muna|ordis|yzmir|all]
 
 -n card_name, --name_occurence card_name
-    find all occurences of a card_name, search in all faction's list.txt"
+    Find all occurences of a card_name, search in all faction's list.txt"
 }
 
 count_card () {
@@ -75,6 +75,16 @@ if [[ $card_name ]]; then
 fi
 
 if [[ $faction_dir ]]; then
-    count_card
+    if [[ $faction_dir == "all" ]] then
+        n=0
+        while [[ n -lt ${#factions[@]} ]]
+        do
+            faction_dir=${factions[$n]}
+            count_card
+            n=$((n + 1))
+        done
+    else
+        count_card
+    fi
 fi
 
