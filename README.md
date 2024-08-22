@@ -9,18 +9,18 @@ favorisant certaines synergies.
 
 ## The List
 
-![screenshot](images/hero_axiom.jpg)
-![screenshot](images/cube_axiom.jpg)
-![screenshot](images/hero_bravos.jpg)
-![screenshot](images/cube_bravos.jpg)
-![screenshot](images/hero_lyra.jpg)
-![screenshot](images/cube_lyra.jpg)
-![screenshot](images/hero_muna.jpg)
-![screenshot](images/cube_muna.jpg)
-![screenshot](images/hero_ordis.jpg)
-![screenshot](images/cube_ordis.jpg)
-![screenshot](images/hero_yzmir.jpg)
-![screenshot](images/cube_yzmir.jpg)
+![screenshot](images/cube_display/hero_axiom.jpg)
+![screenshot](images/cube_display/cube_axiom.jpg)
+![screenshot](images/cube_display/hero_bravos.jpg)
+![screenshot](images/cube_display/cube_bravos.jpg)
+![screenshot](images/cube_display/hero_lyra.jpg)
+![screenshot](images/cube_display/cube_lyra.jpg)
+![screenshot](images/cube_display/hero_muna.jpg)
+![screenshot](images/cube_display/cube_muna.jpg)
+![screenshot](images/cube_display/hero_ordis.jpg)
+![screenshot](images/cube_display/cube_ordis.jpg)
+![screenshot](images/cube_display/hero_yzmir.jpg)
+![screenshot](images/cube_display/cube_yzmir.jpg)
 
 ## Architecture et Direction du Cube
 
