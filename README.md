@@ -52,7 +52,3 @@ réguler un aspect précis du cube (ici Lyra Festival).
 
 I do not own any of the arts in the images directory, they belong to Equinox
 Studio, owner of Altered TCG.
-
-## Ideas
-
-add trickster in lyra

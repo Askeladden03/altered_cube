@@ -13,6 +13,20 @@ hero = {
     "yzmir": ["akesha", "afanas", "lindiwe"]
     }
 
+def load_card_from_path(faction, path):
+    card_list = []
+    with open(path) as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter=':')
+        for row in csv_reader:
+            card_name = f'{row[0]}_{row[1]}'
+            card_name = card_name.lower()
+            card_name = card_name.replace(" ", "_")
+            card_name = card_name.replace(",", "")
+            card_name = card_name.replace(".", "")
+            for i in range(int(row[2])):
+                card_list.append("images/" + faction + "/" + card_name + ".jpg")
+    return card_list
+
 def fill_hero_card_list(faction):
     card_list = []
     with open(faction + '/list.txt') as csv_file:
@@ -79,6 +93,24 @@ def generate_from_card_list(faction, cards):
 
     new_im.save("images/cube_" + faction + ".jpg")
 
+
+def custom_generation(name, cards, col):
+    images = [Image.open(x) for x in cards]
+    width = images[0].size[0] * col
+    height = images[0].size[1] * ((0 if len(cards) % col == 0 else 1) + len(cards) // col)
+    new_im = Image.new('RGB', (width, height))
+    x_offset = 0
+    y_offset = 0
+
+    for i in range(len(cards)):
+        if i % col == 0 and i != 0:
+            x_offset = 0
+            y_offset += images[i].size[1]
+        new_im.paste(images[i], (x_offset, y_offset))
+        x_offset += images[i].size[0]
+
+    new_im.save("images/" + name + ".jpg")
+
 def generate_pdf_from_faction_jpg():
     image_list = []
     for faction in factions:
@@ -89,13 +121,19 @@ def generate_pdf_from_faction_jpg():
 
 def main():
     parser = argparse.ArgumentParser(description='jpg and pdf cube generator')
-    parser.add_argument('--pdf', action='store_true', help='generate pdf from\
-                        existing jpg')
-    parser.add_argument('--jpg', action='store_true', help='generate all\
-    faction jpg')
+    parser.add_argument('--pdf', action='store_true',
+                    help='generate pdf from existing jpg')
+    parser.add_argument('--jpg', action='store_true',
+                    help='generate all faction jpg')
+    parser.add_argument('--custom', dest='spec', nargs=3,
+                    help='custom print, specify path and number of card per line')
     args = parser.parse_args()
 
-    if args.jpg:
+    if (args.spec):
+        card_list = load_card_from_path(args.spec[2], args.spec[0])
+        custom_generation('custom', card_list, int(args.spec[1]))
+
+    if (args.jpg):
         for faction in factions:
             card_list = fill_card_list_from_faction(faction, "list.txt")
             generate_from_card_list(faction, card_list)
