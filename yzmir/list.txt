@@ -10,6 +10,8 @@ Conjuring Seal:C:2
 Dorothy Gale:C:2
 Flamel:C:2
 Gift of Self:C:2
+Off you go!:C:3
+Tooth Fairy:C:3
 Helping Hand:O:2
 Kadigiran Alchemist:R:2
 Kadigiran Mage-Dancer:R:2
@@ -17,15 +19,13 @@ Kraken's Wrath:R:1
 Yzmir Stargazer:R:1
 Lyra Scald:O:2
 Magical Training:R:2
-Monolith Archivist:O:2
+Monolith Archivist:O:0
 Monolith Legate:O:2
 Moonlight Jellyfish:R:2
-Off you go!:C:2
 Ordis Carrier:O:2
 Red:O:2
 Sakarabru:C:2
 Studious Disciple:C:2
 The Kraken:C:2
 Thoth:O:2
-Tooth Fairy:R:2
 Ordis Attorney:O:2

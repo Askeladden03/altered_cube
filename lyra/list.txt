@@ -4,8 +4,9 @@ All in!:C:2
 Aloe Vera:O:2
 Anansi:C:2
 Cloth Cocoon:R:2
-Esmeralda:C:3
-Hathor:C:3
+Esmeralda:C:2
+Ouroboros Trickster:C:2
+Hathor:C:2
 Lyra Festival:C:1
 The Hatter:C:3
 Flamel:O:2
