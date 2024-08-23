@@ -1,32 +1,33 @@
-Ada Lovelace:R:2
-Amelia Earhart:C:2
-Anansi:O:2
-Axiom Reprocessor:C:2
-Axiom Salvager:C:2
-Baku:O:2
-Boom!:R:2
-Brassbug Hive:R:2
-Brassbug Hub:C:2
-Bravos Tracer:O:2
-Bravos Vanguard:O:2
-Coppélia:C:2
-Kelon Elemental:C:3
-Foundry Armorer:C:3
-Dr. Frankenstein:R:2
-Foundry Mecanic:C:2
-Haven Bouncer:O:0
-Haven, Bravos Bastion:O:0
-Hooked:C:2
-Inari:O:2
-Kelon Burst:C:2
-Kelon Cylinder:R:2
-Kraken's Wrath:O:2
-Lyra Chronicler:O:2
-Martengale:O:2
-Monolith Rune-Scribe:O:2
-Moonlight Jellyfish:O:2
-Muna Druid:O:2
-Ogun:R:0
-Ouroboros Inkcaster:O:2
-Sticky Note Seals:O:2
-The Ouroboros, Lyra Bastion:O:2
+ada lovelace:r:2
+moonlight jellyfish:o:2
+kelon elemental:c:2
+martengale:o:2
+kelon burst:c:2
+foundry armorer:c:2
+foundry mecanic:c:2
+coppélia:r:2
+boom!:r:2
+amelia earhart:c:2
+axiom reprocessor:c:2
+anansi:o:1
+armored jammer:r:1
+axiom salvager:c:1
+axiom salvager:r:1
+brassbug hub:r:1
+bravos tracer:o:1
+bravos vanguard:o:1
+harvest:o:1
+haven bouncer:o:1
+haven, bravos bastion:o:1
+hooked:c:1
+inari:o:1
+kelon cylinder:r:1
+lyra chronicler:o:1
+monolith rune-scribe:o:1
+muna druid:o:1
+ogun:r:2
+ouroboros inkcaster:o:1
+sticky note seals:o:1
+the frog prince:o:1
+the ouroboros, lyra bastion:o:1
+tinker bell:r:1

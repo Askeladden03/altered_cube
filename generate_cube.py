@@ -28,7 +28,7 @@ def card_list_from_file_path(path):
     return card_list
 
 
-def jpg_from_card_list(name='custom/export.jpg', card_list=[], col=6):
+def jpg_from_card_list(name='custom/export.jpg', card_list=[], col=5):
     images = [Image.open(x) for x in card_list]
     new_im = Image.new('RGB', get_dimention_from_images(images, col))
     x_offset = 0
