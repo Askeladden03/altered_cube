@@ -1,31 +1,29 @@
-A Cappella Training:C:2
-Alice:O:2
-All in!:C:2
 Aloe Vera:O:2
 Anansi:C:2
-Cloth Cocoon:R:2
-Esmeralda:C:2
-Ouroboros Trickster:C:2
-Hathor:C:2
 Lyra Festival:C:1
-The Hatter:C:3
-Flamel:O:2
-Hooked:O:2
-Kodama:O:2
+Esmeralda:C:2
+Hathor:C:2
+Flamel:O:1
+The Hatter:C:2
 Loki:R:2
+Kodama:O:1
 Lyra Chronicler:R:2
 Lyra Cloth Dancer:C:2
+Hooked:O:1
 Lyra Navigator:R:2
-Lyra Thespian:R:2
-Magical Training:O:2
+Lyra Thespian:R:1
+Lyra Thespian:c:1
+Mighty Jinn:O:1
 Martengale:C:2
-Mighty Jinn:O:2
-Off you go!:O:0
-Ouroboros Inkcaster:R:2
 Paint Prison:C:2
-Tanuki:C:2
+Tanuki:C:1
 The Sandman:R:2
 Tomoe Gozen:O:2
-Twinkle Twinkle:C:2
-Spy Craft:O:2
-Robin Hood:O:2
+Spy Craft:O:1
+All in!:C:2
+Ouroboros Trickster:C:2
+A Cappella Training:C:1
+Off you go!:O:2
+Ouroboros Inkcaster:R:1
+Magical Training:O:1
+Alice:O:1

@@ -10,17 +10,17 @@ favorisant certaines synergies.
 ## The List
 
 ![screenshot](images/cube_display/hero_axiom.jpg)
-![screenshot](images/cube_display/cube_axiom.jpg)
+![screenshot](images/cube_display/axiom.jpg)
 ![screenshot](images/cube_display/hero_bravos.jpg)
-![screenshot](images/cube_display/cube_bravos.jpg)
+![screenshot](images/cube_display/bravos.jpg)
 ![screenshot](images/cube_display/hero_lyra.jpg)
-![screenshot](images/cube_display/cube_lyra.jpg)
+![screenshot](images/cube_display/lyra.jpg)
 ![screenshot](images/cube_display/hero_muna.jpg)
-![screenshot](images/cube_display/cube_muna.jpg)
+![screenshot](images/cube_display/muna.jpg)
 ![screenshot](images/cube_display/hero_ordis.jpg)
-![screenshot](images/cube_display/cube_ordis.jpg)
+![screenshot](images/cube_display/ordis.jpg)
 ![screenshot](images/cube_display/hero_yzmir.jpg)
-![screenshot](images/cube_display/cube_yzmir.jpg)
+![screenshot](images/cube_display/yzmir.jpg)
 
 ## Architecture et Direction du Cube
 

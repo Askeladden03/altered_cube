@@ -54,7 +54,9 @@ def pdf_from_jpg_path_list(path_list):
 def generate_cube():
     for faction in factions:
         card_list = card_list_from_file_path(faction + '/list.txt')
-        jpg_from_card_list('cube_display/cube_' + faction, card_list)
+        jpg_from_card_list('cube_display/' + faction, card_list)
+        card_list = card_list_from_file_path(faction + '/heros.txt')
+        jpg_from_card_list('cube_display/heros_' + faction, card_list)
 
 def main():
     parser = argparse.ArgumentParser(description='jpg and pdf cube generator')

@@ -1,21 +1,23 @@
 ada lovelace:r:2
-moonlight jellyfish:o:2
-kelon elemental:c:2
-martengale:o:2
-kelon burst:c:2
-foundry armorer:c:2
-foundry mecanic:c:2
 coppélia:r:2
+brassbug hub:r:1
+moonlight jellyfish:o:2
+ogun:r:2
+monolith rune-scribe:o:1
 boom!:r:2
-amelia earhart:c:2
-axiom reprocessor:c:2
-anansi:o:1
+foundry armorer:c:2
 armored jammer:r:1
+kelon elemental:c:2
+kelon burst:c:2
+bravos tracer:o:1
+foundry mecanic:c:2
+amelia earhart:c:2
+anansi:o:1
+axiom reprocessor:c:2
 axiom salvager:c:1
 axiom salvager:r:1
-brassbug hub:r:1
-bravos tracer:o:1
 bravos vanguard:o:1
+martengale:o:2
 harvest:o:1
 haven bouncer:o:1
 haven, bravos bastion:o:1
@@ -23,9 +25,7 @@ hooked:c:1
 inari:o:1
 kelon cylinder:r:1
 lyra chronicler:o:1
-monolith rune-scribe:o:1
 muna druid:o:1
-ogun:r:2
 ouroboros inkcaster:o:1
 sticky note seals:o:1
 the frog prince:o:1
