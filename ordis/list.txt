@@ -1,26 +1,28 @@
-Anubis:C:1
-Anubis:r:1
-Conjuring Seal:O:2
-The Sandman:O:1
-Issitoq:C:2
-Kadigiran Alchemist:O:2
-Kelon Burst:O:1
-Monolith Archivist:C:2
-Ordis Cadets:C:2
-Atlas:O:1
-Ozma:C:2
-Monolith Rune-Scribe:R:2
-Baba Yaga:O:1
-Ordis Carrier:C:2
-Ordis Gatekeeper:R:2
-Brassbug Hub:O:1
-Ordis Spy:R:2
-Ordis Trooper:R:2
-Paper Herald:C:2
-Quetzacoatl:C:2
-Ratatoskr:O:2
-Sticky Note Seals:R:2
-The Frog Prince:R:2
-Amelia Earhart:O:2
+anubis:c:1
+anubis:r:1
+conjuring seal:o:2
+the sandman:o:1
+issitoq:c:2
+kadigiran alchemist:o:2
+kelon burst:o:1
+monolith archivist:c:2
+ordis cadets:c:2
+atlas:o:1
+ozma:c:2
+monolith rune-scribe:r:2
+baba yaga:o:1
+ordis carrier:c:2
+ordis gatekeeper:r:2
+brassbug hub:o:1
+ordis spy:r:2
+ordis trooper:r:2
+paper herald:c:1
+quetzacoatl:c:2
+ratatoskr:o:2
+paper herald:c:1
+sticky note seals:r:2
+the frog prince:r:2
+amelia earhart:o:1
 the council:r:2
 ordis attorney:c:2
+amelia earhart:o:1

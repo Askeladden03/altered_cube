@@ -21,6 +21,7 @@ Muna Merchant:R:2
 Paint Prison:O:1
 Nurture:C:2
 Parvati:C:2
-Sneezer Shroom:c:2
+Sneezer Shroom:c:1
 Spindle Harvesters:R:2
 Kitsune:C:2
+Sneezer Shroom:c:1

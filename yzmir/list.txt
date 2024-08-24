@@ -10,18 +10,20 @@ alice:r:2
 monolith archivist:o:1
 thoth:o:2
 baba yaga:c:2
-kadigiran alchemist:c:2
+kadigiran alchemist:c:1
 lyra skald:o:2
 monolith legate:o:2
+kadigiran alchemist:c:1
 kadigiran mage-dancer:c:2
 tooth fairy:c:1
 tooth fairy:r:1
+kraken's wrath:r:1
 bravos bladedancer:o:2
 studious disciple:c:2
-kraken's wrath:r:1
 kraken's wrath:c:1
 banishing gate:c:2
 conjuring seal:c:2
-off you go!:c:2
+off you go!:c:1
 spy craft:r:2
 magical training:r:2
+off you go!:c:1
