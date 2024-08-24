@@ -1,27 +1,26 @@
-A Cappella Training:O:2
-Aja:C:2
-Axiom Reprocessor:O:1
-Aloe Vera:C:2
-Harvest:R:2
-Beauty Sleep:C:1
-Hydracanea:r:2
-Daughter of Yggdrasil:C:2
-Chiron:O:1
-Inari:R:2
-Kodama:C:2
-Lyra Festival:O:1
-Loki:O:2
-Mana Reaping:R:2
-Lyra Cloth Dancer:O:1
+a cappella training:o:2
+aja:c:2
+axiom reprocessor:o:1
+aloe vera:c:2
+harvest:r:2
+beauty sleep:c:2
+hydracanea:r:2
+daughter of yggdrasil:c:2
+chiron:o:1
+inari:r:2
+kodama:c:2
+lyra festival:o:1
+loki:o:1
+mana reaping:r:2
+lyra cloth dancer:o:1
 mana eruption:o:2
-Muna Caregiver:C:2
-Mana Channeling:O:1
-Muna Druid:C:2
-Muna Merchant:R:2
-Paint Prison:O:1
-Nurture:C:2
-Parvati:C:2
-Sneezer Shroom:c:1
-Spindle Harvesters:R:2
-Kitsune:C:2
-Sneezer Shroom:c:1
+muna caregiver:c:2
+mana channeling:o:1
+muna druid:c:2
+muna merchant:r:2
+paint prison:o:1
+nurture:c:2
+parvati:c:2
+spindle harvesters:r:2
+kitsune:c:2
+sneezer shroom:c:2

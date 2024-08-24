@@ -1,29 +1,31 @@
-Aloe Vera:O:2
-Anansi:C:2
-Lyra Festival:C:1
-Esmeralda:C:2
-Hathor:C:2
-Flamel:O:1
-The Hatter:C:2
-Loki:R:2
-Kodama:O:1
-Lyra Chronicler:R:2
-Lyra Cloth Dancer:C:2
-Hooked:O:1
-Lyra Navigator:R:2
-Lyra Thespian:R:1
-Lyra Thespian:c:1
-Mighty Jinn:O:1
-Martengale:C:2
-Paint Prison:C:2
-Tanuki:C:1
-The Sandman:R:2
-Tomoe Gozen:O:2
-Spy Craft:O:1
-All in!:C:2
-Ouroboros Trickster:C:2
-A Cappella Training:C:1
-Off you go!:O:2
-Ouroboros Inkcaster:R:1
-Magical Training:O:1
-Alice:O:1
+aloe vera:o:0
+anansi:c:2
+lyra festival:c:1
+esmeralda:c:2
+hathor:c:2
+flamel:o:1
+the hatter:c:2
+loki:r:1
+kodama:o:1
+lyra chronicler:r:2
+lyra cloth dancer:c:2
+hooked:o:1
+lyra navigator:r:2
+lyra thespian:r:1
+lyra thespian:c:1
+mighty jinn:o:1
+martengale:c:2
+paint prison:c:2
+tanuki:c:1
+the sandman:r:2
+tomoe gozen:o:2
+spy craft:o:0
+all in!:c:2
+ouroboros trickster:c:2
+a cappella training:c:1
+off you go!:o:2
+ouroboros inkcaster:r:1
+magical training:o:1
+alice:o:1
+paper herald:o:2
+yong-su verdant weaver:o:2

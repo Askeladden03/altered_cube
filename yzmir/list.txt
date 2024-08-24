@@ -1,13 +1,15 @@
 the kraken:c:2
-sakarabru:c:2
+sakarabru:c:1
+sakarabru:r:1
 red:o:1
-dorothy gale:c:2
+dorothy gale:c:1
+dorothy gale:r:1
 baku:r:2
-hathor:o:1
+hathor:o:0
 flamel:c:1
 flamel:r:1
 alice:r:2
-monolith archivist:o:1
+monolith archivist:o:2
 thoth:o:2
 baba yaga:c:2
 kadigiran alchemist:c:1
@@ -15,8 +17,7 @@ lyra skald:o:2
 monolith legate:o:2
 kadigiran alchemist:c:1
 kadigiran mage-dancer:c:2
-tooth fairy:c:1
-tooth fairy:r:1
+tooth fairy:r:2
 kraken's wrath:r:1
 bravos bladedancer:o:2
 studious disciple:c:2
