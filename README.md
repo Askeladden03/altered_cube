@@ -52,3 +52,17 @@ réguler un aspect précis du cube (ici Lyra Festival).
 
 I do not own any of the arts in the images directory, they belong to Equinox
 Studio, owner of Altered TCG.
+
+## Ideas
+
+Distribuer les héros en début de cube pour donner des directions et permettre de
+changer d'archétype en cours de draft. À 8 joueurs j'aimerais donner 3
+possibilités à chacun, en vérifiant que certains héros en soient pas oublié, si
+c'est le cas, passer à 2 héros est envisageable (mais force un peu à se
+concentrer sur les 2 factions principales). Il faut donc 4 héros par factions:
+AX - Treyst Subhash Sierra Treyst
+BR - Kojo Kojo Basira Basira
+LY - Fen Fen Auraq Auraq
+MU - Rin Rin Arjun Arjun
+OR - Waru Waru Gulrang Gulrang
+YZ - Lindiwe Akesha Afanas Afanas

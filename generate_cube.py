@@ -1,3 +1,5 @@
+#!/bin/python3
+
 import argparse
 import sys
 import csv
@@ -17,6 +19,8 @@ def card_list_from_file_path(path):
     with open(path) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=':')
         for row in csv_reader:
+            if 3 != len(row):
+                continue
             card_name = f'{row[0]}_{row[1]}'
             card_name = card_name\
                     .lower()\
