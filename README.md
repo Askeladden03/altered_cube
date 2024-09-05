@@ -2,10 +2,9 @@
 
 ## Introduction
 
-Ce cube a pour vocation d'apporter une expérience plus poussée du draft en Core
-Set. Le format de draft étant plus puissant que le construit, ce cube cherche à
-équilibrer le format limité en limitant les stratégies oppressantes et en
-favorisant certaines synergies.
+This cube aims to bring a more advanced experience to the Core Set draft. Due to
+an unbalanced draft format, equilibrium is brought through absence of certain
+hero and enhanced archetypes.
 
 ## The List
 
@@ -22,47 +21,29 @@ favorisant certaines synergies.
 ![screenshot](images/cube_display/heros_yzmir.jpg)
 ![screenshot](images/cube_display/cube_yzmir.jpg)
 
-## Architecture et Direction du Cube
+## Architecture and Direction
 
-Ce cube se joue avec 3 boosters. Les deux premiers boosters draftés contiennent
-16 cartes dont un héros. Le dernier booster en contient 15, sans héros. Le cube
-est pensé pour être drafté à 8 joueurs. Il contient 360 cartes, 60 par faction
-plus 16 cartes de héros. Ces choix permettent d'avoir moins de cartes qu'avec 4
-boosters de 12 cartes, donc de laisser plus de choix lors de la construction du
-cube (comme pour inciter des paires de factions via les Out Of Faction (OOF), ou
-via l'absence de cartes clés dans sa faction d'origine).
+### How to cube ?
 
-Choisir de n'avoir que 16 héros est un choix inélégant mais pratique. Lyra et
-Bravos perdent chacun un héros (Atsadi et Nevenka) qui sont difficiles de
-supporter dans le cube. Je pense que même avec les 18 héros dans le cube, les
-héros n'offrent pas l'égalité des chances pour la jouabilité de chaque faction.
-Cependant, comme chaque deck a accès à 3 factions, certaines factions ont plutôt
-vocation à supporter une stratégie plutôt qu'à en être le coeur.
+This cube is played with 3 fifteen card boosters and 24 hero pool. First, 3
+different faction hero are dealt to each players, then the draft phase begins
+normally. Deck building rules are the same as a classic Altered draft.
 
-Je me questionne encore sur la répartition de chaque carte dans le cube. Je ne
-souhaite qu'aucune carte ne soit trop présente dans le cube, donc impossible de
-voir 5 fois la même carte. Le maximum est fixé à 4 par la répartition suivante:
-2 dans la faction d'origine, 2 en OOF. La majeure partie des cartes est présente
-en seulement 2 exemplaires. Plus rarement, certaines cartes sont présentes en 3
-exemplaires dans leur faction d'origine, afin de donner une direction. Les cas
-de cartes en un seul exemplaire sont extrêmement rares, là uniquement pour
-réguler un aspect précis du cube (ici Lyra Festival).
+### Cube's repartition
+
+Each faction contains 60 cards with no regards on OOF (out of faction) or on
+rarity. Cards are present alone (1 per faction), as a pair (25 per faction) or
+as a trio (3 per faction). As a all, cards can be present at most 4 times (two
+pairs in two different factions). Trios aims to give a direction and faction
+identity.
+
+Having less cards to draft with 3 fifteen cards boosters (than 4 twelve ones)
+and cutting hero help make disappear oppressive archetypes (by absence of key
+cards). In addition to that, OOF's over-presence (compared to a classic draft)
+create new powered archetype. Each hero is playable, even if some faction tends
+more to support others that assume a primary role.
 
 ## Ownership of /images content
 
 I do not own any of the arts in the images directory, they belong to Equinox
 Studio, owner of Altered TCG.
-
-## Ideas
-
-Distribuer les héros en début de cube pour donner des directions et permettre de
-changer d'archétype en cours de draft. À 8 joueurs j'aimerais donner 3
-possibilités à chacun, en vérifiant que certains héros en soient pas oublié, si
-c'est le cas, passer à 2 héros est envisageable (mais force un peu à se
-concentrer sur les 2 factions principales). Il faut donc 4 héros par factions:
-AX - Treyst Subhash Sierra Treyst
-BR - Kojo Kojo Basira Basira
-LY - Fen Fen Auraq Auraq
-MU - Rin Rin Arjun Arjun
-OR - Waru Waru Gulrang Gulrang
-YZ - Lindiwe Akesha Afanas Afanas
