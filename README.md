@@ -37,13 +37,13 @@ as a trio (3 per faction). As a all, cards can be present at most 4 times (two
 pairs in two different factions). Trios aims to give a direction and faction
 identity.
 
-Having less cards to draft with 3 fifteen cards boosters (than 4 twelve ones)
-and cutting hero help make disappear oppressive archetypes (by absence of key
+Having less cards to draft with 3 fifteen cards boosters (rather than 4 twelve ones)
+and cutting heroes help make disappear oppressive archetypes (by absence of key
 cards). In addition to that, OOF's over-presence (compared to a classic draft)
 create new powered archetype. Each hero is playable, even if some faction tends
-more to support others that assume a primary role.
+to better support others that assume a primary role.
 
 ## Ownership of /images content
 
-I do not own any of the arts in the images directory, they belong to Equinox
+I do not own any of the art in the 'images' directory, they belong to Equinox
 Studio, owner of Altered TCG.
